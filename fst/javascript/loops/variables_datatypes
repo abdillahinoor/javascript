@@ -1,0 +1,19 @@
+// // JavaScript Variable Examples
+
+// var city = "Mombasa";
+// let temperature = 29;
+// const language = "Swahili";
+
+// console.log("City:", city);             // Mombasa
+// console.log("Temperature:", temperature); // 29
+// console.log("Language:", language);     // Swahili
+
+// let isHot = true;
+// let colors = ["red", "blue", "green"];
+// let person = { name: "Amina", age: 22 };
+// let address; // undefined
+
+// console.log("Is it hot?", isHot);     // true
+// console.log("Colors:", colors);       // [ 'red', 'blue', 'green' ]
+// console.log("Person:", person);       // { name: 'Amina', age: 22 }
+// console.log("Address:", address);     // undefined
