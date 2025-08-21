@@ -4,3 +4,35 @@
 .vscode-server
 .vscode-server
 .vscode-server/
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency folders
+node_modules/
+bower_components/
+
+# Build output
+dist/
+build/
+.cache/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.tmp
+*.bak
+
